@@ -9,3 +9,5 @@ To replicate the paper results:
 3.) Under "INSERT_PATH_TO_PARENT_FOLDER" in main.do, enter the path to this repository.
 4.) Create folders called "tables" and "figures" in the parent folder containing this README. 
 5.) Execute main.do, and all tables and figures should replicate. 
+
+For details about data cleaning or inputs, see the public project materials available [here](https://github.com/precision-agriculture-for-development/soil-fertility-data) 
